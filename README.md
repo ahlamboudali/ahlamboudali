@@ -1,30 +1,40 @@
-# Hello, I'm Ahlam!s
+# Hello, I'm Ahlam! 👋
 
-I'm Ahlam, originally from Algeria and currently residing in Brussels.
+🌍 Location:
 
-## About Me
+ Originally from Algeria 💚❤️🤍, currently residing in 🇧🇪 Brussels.
 
-- :earth_africa: **Location:** Brussels, Belgium :flag-be:
-- :briefcase: **Occupation:** [Your Occupation/Field]
+# 🎓 Education:
 
-## Hobbies :star2:
+🎓 Master's in Accounting and Audit (2019).
+🎓 Bachelor's in Accounting and Finance (2017).
 
-In my free time, I enjoy:
 
-- :airplane: Travelling
-- :woman-swimming: Swimming
-- :book: Reading
+# 💻 Technological Interests: 
 
-## Languages :speaking_head_in_silhouette:
+🌐 Keeps up with the latest in technology.
+🤖 Interested in emerging tech trends.
+🖥 Comfortable with technology tools in daily life.
+📱 Enjoys exploring new apps and gadgets.
 
-I am fluent in:
+# 📕 Languages:
 
-- :flag-ar: Arabic
-- :gb: English
-- :fr: French Let's connect and share our passions! Feel free to explore my
-  repositories and reach out. :blush:
+🗣️: Arabic.
 
----
+🗣️:  English.
 
-_"The world is a book, and those who do not travel read only one page." - Saint
-Augustine_
+🗣️:  French.
+
+Let's connect and share our passions! Feel free to explore my repositories and reach out. 😊
+
+# 💼 Career Enrichment:
+
+🚀 Seeking opportunities for career growth.
+🤝 Networking with professionals in the field.
+💡 Mentoring and sharing knowledge.
+
+# 🌍 Global Perspectives:
+
+🌏 Understanding international business dynamics.
+🤝 Building cross-cultural communication skills.
+🌐 Exploring global career opportunities.
